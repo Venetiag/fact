@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "title": "Government Planning and Control",
+            "paragraphs": [
+                {
+                    "context": "With a fleet of autonomous Jaguar I-Pace vehicles, Wayve plans to expand beyond London as it has tested its technology in five other cities in the UK. Artificial intelligence expert Amar Shah founded the company alongside Alex Kendall in London in 2017. Shah led the firm as its CEO until 2020.",
+                    "qas": [
+                        {
+                            "question": "What was set up?",
+                            "id": "q1",
+                            "answers": [
+                                {
+                                    "text": "Wayve",
+                                    "answer_start": 49
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who setup Wayve?",
+                            "id": "q2",
+                            "answers": [
+                                {
+                                    "text": "Amar Shah",
+                                    "answer_start": 124
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who was Wayve setup with?",
+                            "id": "q3",
+                            "answers": [
+                                {
+                                    "text": "Alex Kendall",
+                                    "answer_start": 163
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was Wayve set up?",
+                            "id": "q4",
+                            "answers": [
+                                {
+                                    "text": "2017",
+                                    "answer_start": 191
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Where was Wayve set up?",
+                            "id": "q5",
+                            "answers": [
+                                {
+                                    "text": "London",
+                                    "answer_start": 211
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Mahindra Group is setting up Mahindra Advanced Design Europe (M.A.D.E) in the West Midlands, UK. The new Centre of Excellence (CoE) will be part of the Mahindra Global Design Network that includes the Mahindra Design Studio in Mumbai, India, and Pininfarina Design in Turin, Italy.",
+                    "qas": [
+                        {
+                            "question": "Who setup mahindra advance design europe?",
+                            "id": "q6",
+                            "answers": [
+                                {
+                                    "text": "Mahindra Group",
+                                    "answer_start": 0
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who was mahindra advanced design europe set up with?",
+                            "id": "q7",
+                            "answers": [
+                                {
+                                    "text": "Mahindra Group",
+                                    "answer_start": 0
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was mahindra advanced design europe set up?",
+                            "id": "q8",
+                            "answers": [
+                                {
+                                    "text": "west midlands, uk",
+                                    "answer_start": 67
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Where was mahindra advance design europe set up?",
+                            "id": "q9",
+                            "answers": [
+                                {
+                                    "text": "West Midlands, UK",
+                                    "answer_start": 67
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "Volva Cars, and Uber to be the voice of the nascent autonomous vehicle ('AV') industry. Since then, we are proud to have tripled in size, adding many of the world's leading technology, trucking, ridesharing, and automotive companies as members of the Association. This cross-section of companies demonstrates the widespread interest in developing AV technology across different sectors.",
+                    "qas": [
+                        {
+                            "question": "What was set up?",
+                            "id": "q11",
+                            "answers": [
+                                {
+                                    "text": "The autonomous vehicle industry association",
+                                    "answer_start": 68
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who setup the autonomous vehicle industry association set up with?",
+                            "id": "q12",
+                            "answers": [
+                                {
+                                    "text": "ford motor company, waymo, lyft, volvo cars, and uber",
+                                    "answer_start": 95
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Who was the autonomous vehicle industry association set up with?",
+                            "id": "q13",
+                            "answers": [
+                                {
+                                    "text": "ford motor company, waymo, lyft, volvo cars, and uber",
+                                    "answer_start": 95
+                                }
+                            ]
+                        },
+                        {
+                            "question": "When was the autonomous vehicle industry association setup?",
+                            "id": "q14",
+                            "answers": [
+                                {
+                                    "text": "01 April 2016",
+                                    "answer_start": 126
+                                }
+                            ]
+                        },
+                        {
+                            "question": "Where was the autonomous vehicle industry association set up?",
+                            "id": "q15",
+                            "answers": [
+                                {
+                                    "text": "01 April 2016",
+                                    "answer_start": 126
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "version": "1.0"
+}
